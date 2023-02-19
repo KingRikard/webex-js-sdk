@@ -42,7 +42,7 @@ npm install --save webex
 ## Usage
 
 To use the SDK, you will need Cisco Webex credentials. If you do not already have a Cisco Webex account, visit
-[Cisco Webex for Developers](https://developer.webex.com/) to create your account and retrieve your **_access token_**.
+[Cisco Webex for Developers](https://developer.webex.com/) to create your account and retrieve your **_access token_**. Bleep
 
 See [the detailed docs](https://webex.github.io/webex-js-sdk/) for more usage examples.
 
